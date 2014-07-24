@@ -3,7 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/mySpring.iml" filepath="$PROJECT_DIR$/mySpring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-aop-aspectj/spring-aop-aspectj.iml" filepath="$PROJECT_DIR$/spring-aop-aspectj/spring-aop-aspectj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-aop-schema/spring-aop-schema.iml" filepath="$PROJECT_DIR$/spring-aop-schema/spring-aop-schema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-el/spring-el.iml" filepath="$PROJECT_DIR$/spring-el/spring-el.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-ioc/spring-ioc.iml" filepath="$PROJECT_DIR$/spring-ioc/spring-ioc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-jdbc/spring-jdbc.iml" filepath="$PROJECT_DIR$/spring-jdbc/spring-jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-mvc/spring-mvc.iml" filepath="$PROJECT_DIR$/spring-mvc/spring-mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-tx/spring-tx.iml" filepath="$PROJECT_DIR$/spring-tx/spring-tx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sprinig-di/sprinig-di.iml" filepath="$PROJECT_DIR$/sprinig-di/sprinig-di.iml" />
     </modules>
   </component>
 </project>

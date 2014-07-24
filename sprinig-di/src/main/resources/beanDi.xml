@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="setDi" class="com.github.liuyiyou.spring.di.SetterDi">
+        <property name="index" value="1" />
+        <property name="message" value="Hello BeanDi" />
+    </bean>
+
+    <bean id="beanDi" class="com.github.liuyiyou.spring.di.BeanDi">
+        <property name="helloApi" ref="setDi"></property>
+    </bean>
+</beans>

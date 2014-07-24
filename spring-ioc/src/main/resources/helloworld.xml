@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+   <!-- 通过全限定类名 ,注意，在该种情况下，需要该类型唯一,需要吧下面的注释掉 -->
+    <bean  class="com.github.liuyiyou.spring.ioc.HelloImpl"></bean>
+
+
+    <!-- 根据id得到bean -->
+    <bean id="hello" class="com.github.liuyiyou.spring.ioc.HelloImpl"></bean>
+
+    <!--根据name得到bean-->
+    <bean name="helloName" class="com.github.liuyiyou.spring.ioc.HelloImpl"></bean>
+
+
+     <!-- 根据别名得到bean -->
+     <alias name="hello" alias="hello2"></alias>
+
+
+</beans>
