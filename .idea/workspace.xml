@@ -1,84 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" name="Default" comment="" />
+    <list default="true" id="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/ant.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/spring_mvc_war.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/spring_mvc_war_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_2_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_0_2_9.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_1_26.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_jconsole_1_6_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_0_5_4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_15_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_3.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_7.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_5_4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_regexp_jakarta_regexp_1_4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javassist_javassist_3_12_1_GA.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_0_0_GA.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_7.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_18.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_databinder_dispatch_jsoup_2_8_1_0_9_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ehcache_ehcache_core_2_5_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__opensymphony_sitemesh_2_4_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_core_3_5_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_highlighter_3_5_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_memory_3_5_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queries_3_5_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_core_1_2_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_ehcache_1_2_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_spring_1_2_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_web_1_2_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_6_8.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_7_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_3.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_3.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_18.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_4_0_1_Final.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_4_0_0_Final.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_4_0_0_Final.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_4_1_0_Final.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_annotation_processor_4_1_0_Final.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_0_api_1_0_1_Final.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hsqldb_hsqldb_1_8_0_10.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_1_0_3_Final.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_0_CR2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_1_spec_1_0_0_Final.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20080701.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_6_3.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongo_java_driver_2_10_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_8_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_5_10.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_5_10.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_5_10.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_core_1_1_0_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_1_0_2_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_3_2_0_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_3_2_0_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_3_2_0_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_3_2_0_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_3_2_0_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_3_2_0_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_3_2_0_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_3_2_0_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_3_2_0_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_3_2_0_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_3_2_0_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+    </list>
     <ignored path="mySpring.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/User.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1405429889768" ignored="false" />
-    <file path="/spring-web.xml" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1405430196070" ignored="false" />
-    <file path="/spring-config.xml" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1405430582063" ignored="false" />
-    <file path="/Jsp File.txt.ft" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1405430337856" ignored="false" />
-    <file path="/UserController.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1405430389044" ignored="false" />
-    <file path="/test.jsp" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1405430399265" ignored="false" />
-    <file path="/ValidatorController.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1405432680154" ignored="false" />
-    <file path="/index.jsp" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1405432203811" ignored="false" />
-    <file path="/404.jsp" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1405432251839" ignored="false" />
-    <file path="/UserValidator.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1405432721788" ignored="false" />
-    <file path="/fragment.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406191336857" ignored="false" />
-    <file path="/ValidatorControllerTest.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1405478515572" ignored="false" />
-    <file path="/HelloApi.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406186990106" ignored="false" />
-    <file path="/HelloImpl.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406169666127" ignored="false" />
-    <file path="/HelloImplTest.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406171030792" ignored="false" />
-    <file path="/helloworld.xml" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406171123737" ignored="false" />
-    <file path="/BeanInstance.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406171650899" ignored="false" />
-    <file path="/instanceBean.xml" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406171488841" ignored="false" />
-    <file path="/BeanInstanceTest.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406171723460" ignored="false" />
-    <file path="/InstanceByStaticFactory.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406171917310" ignored="false" />
-    <file path="/instanceByStaticFactory.xml" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406172232773" ignored="false" />
-    <file path="/InstanceByStaticFactoryTest.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406172328419" ignored="false" />
-    <file path="/InstanceByFactory.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406172858200" ignored="false" />
-    <file path="/instanceByFactory.xml" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406173727343" ignored="false" />
-    <file path="/HelloService.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406176534729" ignored="false" />
-    <file path="/HelloServiceImpl.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406176568490" ignored="false" />
-    <file path="/HelloAspect.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406174684402" ignored="false" />
-    <file path="/hello.xml" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406176696786" ignored="false" />
-    <file path="/HelloServiceTest.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406176740420" ignored="false" />
-    <file path="/HelloAspectj.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406181671640" ignored="false" />
-    <file path="/pom.xml" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406179783694" ignored="false" />
-    <file path="/JdbcTemplateTest.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406183185348" ignored="false" />
-    <file path="/SpElTest.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406186797236" ignored="false" />
-    <file path="/el.xml" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406184399302" ignored="false" />
-    <file path="/ConstructDi.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406187115218" ignored="false" />
-    <file path="/di.xml" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406187937248" ignored="false" />
-    <file path="/ConstructDiTest.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406187481817" ignored="false" />
-    <file path="/StaticFactoryDi.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406187691470" ignored="false" />
-    <file path="/staticFactoryDi.xml" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406187905645" ignored="false" />
-    <file path="/InstanceFactory.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406188102806" ignored="false" />
-    <file path="/instanceFactoryDi.xml" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406188199558" ignored="false" />
-    <file path="/setDi.xml" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406188533481" ignored="false" />
-    <file path="/SetterDi.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406188386018" ignored="false" />
-    <file path="/ListDi.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406188802190" ignored="false" />
-    <file path="/listSetMap.xml" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406189483338" ignored="false" />
-    <file path="/ArrayDi.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406188986806" ignored="false" />
-    <file path="/arrayDi.xml" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406189140695" ignored="false" />
-    <file path="/ArrayDiTest.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406189617209" ignored="false" />
-    <file path="/ListDiTest.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406189460978" ignored="false" />
-    <file path="/MapDi.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406189879872" ignored="false" />
-    <file path="/mapDi.xml" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406190529483" ignored="false" />
-    <file path="/MapDiTest.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406190445285" ignored="false" />
-    <file path="/PropertiesDi.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406190595287" ignored="false" />
-    <file path="/propDi.xml" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406190746003" ignored="false" />
-    <file path="/PropertiesDiTest.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406190869221" ignored="false" />
-    <file path="/BeanDi.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406191167087" ignored="false" />
-    <file path="/beanDi.xml" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406191317224" ignored="false" />
-    <file path="/BeanDiTest.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406191411946" ignored="false" />
-    <file path="/ResourceLoaderTest.java" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406191986821" ignored="false" />
-    <file path="/Dummy.txt" changelist="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" time="1406192566840" ignored="false" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/spring-el/target/" />
+    <ignored path="$PROJECT_DIR$/spring-aop-aspectj/target/" />
+    <ignored path="$PROJECT_DIR$/spring-aop-schema/target/" />
+    <ignored path="$PROJECT_DIR$/spring-ioc/target/" />
+    <ignored path="$PROJECT_DIR$/spring-jdbc/target/" />
+    <ignored path="$PROJECT_DIR$/spring-tx/target/" />
+    <ignored path="$PROJECT_DIR$/sprinig-di/target/" />
+    <ignored path="$PROJECT_DIR$/spring-mvc/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="DaemonCodeAnalyzer">
-    <disable_hints />
-  </component>
   <component name="DebuggerManager">
-    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
         <option name="NOTIFY_UNCAUGHT" value="true" />
@@ -112,43 +148,196 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
-    <breakpoint_rules />
-    <ui_properties />
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="mySpring" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/cn/liuyiyou/spring/service/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="30" column="23" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/cn/liuyiyou/spring/domain/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="25" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValidatorControllerTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-mvc/src/test/java/cn/liuyiyou/spring/web/ValidatorControllerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="31" column="9" lean-forward="false" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PropertiesDiTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-ioc/src/test/java/cn/liuyiyou/spring/di/PropertiesDiTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MapDiTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-ioc/src/test/java/cn/liuyiyou/spring/di/MapDiTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayDiTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-ioc/src/test/java/cn/liuyiyou/spring/di/ArrayDiTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BeanDiTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-ioc/src/test/java/cn/liuyiyou/spring/di/BeanDiTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResourceLoaderTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-ioc/src/test/java/cn/liuyiyou/spring/ResourceLoaderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="347">
+              <caret line="25" column="12" lean-forward="false" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>4.</find>
+      <find>org.springframework-version</find>
+      <find>local</find>
+      <find>dataSource</find>
+      <find>TransactionSynchronizationManager</find>
+      <find>org.mybatis.pagination.version</find>
+    </findStrings>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
-    <option name="changedFiles">
+    <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/sprinig-di/src/main/resources/listSetMap.xml" />
-        <option value="$PROJECT_DIR$/sprinig-di/src/main/java/com/github/liuyiyou/spring/di/ArrayDi.java" />
-        <option value="$PROJECT_DIR$/sprinig-di/src/main/resources/arrayDi.xml" />
-        <option value="$PROJECT_DIR$/sprinig-di/src/test/java/com/github/liuyiyou/spring/di/ListDiTest.java" />
-        <option value="$PROJECT_DIR$/sprinig-di/src/main/resources/listDi.xml" />
-        <option value="$PROJECT_DIR$/sprinig-di/src/test/java/com/github/liuyiyou/spring/di/ArrayDiTest.java" />
-        <option value="$PROJECT_DIR$/sprinig-di/src/main/java/com/github/liuyiyou/spring/di/MapDi.java" />
-        <option value="$PROJECT_DIR$/sprinig-di/src/test/java/com/github/liuyiyou/spring/di/MapDiTest.java" />
-        <option value="$PROJECT_DIR$/sprinig-di/src/main/resources/mapDi.xml" />
-        <option value="$PROJECT_DIR$/sprinig-di/src/main/java/com/github/liuyiyou/spring/di/PropertiesDi.java" />
-        <option value="$PROJECT_DIR$/sprinig-di/src/main/resources/propDi.xml" />
-        <option value="$PROJECT_DIR$/sprinig-di/src/test/java/com/github/liuyiyou/spring/di/PropertiesDiTest.java" />
-        <option value="$PROJECT_DIR$/sprinig-di/src/main/java/com/github/liuyiyou/spring/di/BeanDi.java" />
-        <option value="$PROJECT_DIR$/sprinig-di/src/main/resources/beanDi.xml" />
-        <option value="$PROJECT_DIR$/sprinig-di/src/test/java/com/github/liuyiyou/spring/di/BeanDiTest.java" />
-        <option value="$PROJECT_DIR$/sprinig-di/src/test/java/com/github/liuyiyou/spring/resources/ResourceLoaderTest.java" />
+        <option value="$PROJECT_DIR$/spring-jdbc/src/main/java/cn/liuyiyou/spring/jdbc/JdbcTemplateTest.java" />
+        <option value="$PROJECT_DIR$/spring-ioc/src/test/java/com/github/liuyiyou/spring/ioc/HelloImplTest.java" />
+        <option value="$PROJECT_DIR$/spring-jdbc/src/test/java/com/github/liuyiyou/spring/jdbc/JdbcTemplateTest.java" />
+        <option value="$PROJECT_DIR$/sprinig-di/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-aop-aspectj/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-aop-schema/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-el/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-ioc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-tx/pom.xml" />
+        <option value="$PROJECT_DIR$/sprinig-di/src/test/java/com/github/liuyiyou/spring/di/ConstructDiTest.java" />
+        <option value="$PROJECT_DIR$/sprinig-di/src/test/java/com/github/liuyiyou/spring/di/InstanceFactoryDiTest.java" />
+        <option value="$PROJECT_DIR$/spring-ioc/src/test/java/com/github/liuyiyou/spring/ioc/InstanceByConstructTest.java" />
+        <option value="$PROJECT_DIR$/spring-ioc/src/main/java/com/github/liuyiyou/spring/ioc/io/BeanDi.java" />
+        <option value="$PROJECT_DIR$/spring-ioc/src/main/java/com/github/liuyiyou/spring/di/BeanDi.java" />
+        <option value="$PROJECT_DIR$/spring-ioc/src/test/java/spring/di/SetterDiTest.java" />
+        <option value="$PROJECT_DIR$/spring-ioc/src/test/java/com/github/liuyiyou/spring/ioc/di/ArrayDiTest.java" />
+        <option value="$PROJECT_DIR$/spring-ioc/src/test/java/com/github/liuyiyou/spring/di/ArrayDiTest.java" />
+        <option value="$PROJECT_DIR$/spring-ioc/src/test/java/com/github/liuyiyou/spring/ResourceLoaderTest.java" />
+        <option value="$PROJECT_DIR$/spring-aop-aspectj/src/test/java/cn/liuyiyou/spring/aop/aspectj/HelloServiceTest.java" />
+        <option value="$PROJECT_DIR$/spring-aop-aspectj/src/main/java/cn/liuyiyou/spring/aop/aspectj/HelloAspectj.java" />
+        <option value="$PROJECT_DIR$/spring-aop-aspectj/src/main/resources/hello.xml" />
+        <option value="$PROJECT_DIR$/spring-aop-schema/src/main/resources/hello.xml" />
+        <option value="$PROJECT_DIR$/spring-aop-schema/src/test/java/cn/liuyiyou/spring/aop/HelloServiceTest.java" />
+        <option value="$PROJECT_DIR$/spring-el/src/test/java/cn/liuyiyou/spring/el/SpElTest.java" />
+        <option value="$PROJECT_DIR$/spring-jdbc/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-jdbc/src/main/java/cn/liuyiyou/spring/jdbc/AppConfig.java" />
+        <option value="$PROJECT_DIR$/spring-jdbc/src/test/java/cn/liuyiyou/spring/jdbc/JdbcTemplateTest.java" />
+        <option value="$PROJECT_DIR$/spring-mvc/src/main/java/cn/liuyiyou/spring/web/ValidatorController.java" />
+        <option value="$PROJECT_DIR$/spring-mvc/src/main/java/cn/liuyiyou/spring/domain/UserValidator.java" />
+        <option value="$PROJECT_DIR$/spring-mvc/src/main/java/cn/liuyiyou/spring/service/UserService.java" />
+        <option value="$PROJECT_DIR$/spring-mvc/src/main/java/cn/liuyiyou/spring/domain/User.java" />
+        <option value="$PROJECT_DIR$/spring-mvc/src/test/java/cn/liuyiyou/spring/web/ValidatorControllerTest.java" />
+        <option value="$PROJECT_DIR$/spring-ioc/src/test/java/cn/liuyiyou/spring/di/PropertiesDiTest.java" />
+        <option value="$PROJECT_DIR$/spring-ioc/src/test/java/cn/liuyiyou/spring/di/MapDiTest.java" />
+        <option value="$PROJECT_DIR$/spring-ioc/src/test/java/cn/liuyiyou/spring/di/ArrayDiTest.java" />
+        <option value="$PROJECT_DIR$/spring-ioc/src/test/java/cn/liuyiyou/spring/di/BeanDiTest.java" />
+        <option value="$PROJECT_DIR$/spring-ioc/src/test/java/cn/liuyiyou/spring/ResourceLoaderTest.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -160,7 +349,8 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$USER_HOME$/TechSoft/apache-maven-3.0.5" />
+        <option name="mavenHome" value="$USER_HOME$/soft/apache-maven-3.5.2" />
+        <option name="workOffline" value="true" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -171,59 +361,21 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="mySpring" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="mySpring" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Lifecycle" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
-        </PATH_ELEMENT>
-      </PATH>
+      <expand />
+      <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="825" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <OptionsSetting value="true" id="Undo Check Out" />
-    <OptionsSetting value="true" id="Get Latest Version" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -233,43 +385,25 @@
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mySpring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mySpring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mySpring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="mySpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cn.liuyiyou.spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mySpring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-mvc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -283,19 +417,20 @@
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="fileTemplates" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../myLucence" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="FullScreen" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gant" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -305,31 +440,93 @@
       <recent name="com.github.liuyiyou.spring.aop" />
       <recent name="com.github.liuyiyou.spring.ioc" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.github.liuyiyou.spring" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring-ioc/src/test/java/com/github/liuyiyou/spring/ioc" />
+      <recent name="$PROJECT_DIR$/spring-ioc/src/test/java" />
+      <recent name="$PROJECT_DIR$/spring-ioc/src/main/resources" />
+      <recent name="$PROJECT_DIR$/spring-ioc/src/main/java/com/github/liuyiyou/spring/ioc/io" />
       <recent name="$PROJECT_DIR$/spring-tx/src/main/resources" />
-      <recent name="$PROJECT_DIR$/sprinig-di/src/main/resources" />
-      <recent name="$PROJECT_DIR$/spring-jdbc/src/main/resources" />
-      <recent name="$PROJECT_DIR$/spring-el/src/main/resources" />
-      <recent name="$PROJECT_DIR$/spring-aop-aspectj/src/main/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Maven.mySpring [clean]">
-    <configuration default="false" name="MapDiTest.testMapDi" type="JUnit" factoryName="JUnit" temporary="true">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.JdbcTemplateTest">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration name="AppConfig" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.github.liuyiyou.spring.di.*" />
+          <option name="PATTERN" value="cn.liuyiyou.spring.jdbc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="sprinig-di" />
+      <module name="spring-jdbc" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.github.liuyiyou.spring.di" />
-      <option name="MAIN_CLASS_NAME" value="com.github.liuyiyou.spring.di.MapDiTest" />
-      <option name="METHOD_NAME" value="testMapDi" />
+      <option name="PACKAGE_NAME" value="cn.liuyiyou.spring.jdbc" />
+      <option name="MAIN_CLASS_NAME" value="cn.liuyiyou.spring.jdbc.AppConfig" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="AppConfig.testQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.liuyiyou.spring.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="spring-jdbc" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.liuyiyou.spring.jdbc" />
+      <option name="MAIN_CLASS_NAME" value="cn.liuyiyou.spring.jdbc.AppConfig" />
+      <option name="METHOD_NAME" value="testQuery" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -341,50 +538,19 @@
       </option>
       <envs />
       <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
     </configuration>
-    <configuration default="false" name="PropertiesDiTest.testArrayDi" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration name="HelloServiceTest.testSayHello (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.github.liuyiyou.spring.di.*" />
+          <option name="PATTERN" value="cn.liuyiyou.spring.aop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="sprinig-di" />
+      <module name="spring-aop-schema" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.github.liuyiyou.spring.di" />
-      <option name="MAIN_CLASS_NAME" value="com.github.liuyiyou.spring.di.PropertiesDiTest" />
-      <option name="METHOD_NAME" value="testArrayDi" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="BeanDiTest.testSayHello" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.github.liuyiyou.spring.di.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="sprinig-di" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.github.liuyiyou.spring.di" />
-      <option name="MAIN_CLASS_NAME" value="com.github.liuyiyou.spring.di.BeanDiTest" />
+      <option name="PACKAGE_NAME" value="cn.liuyiyou.spring.aop" />
+      <option name="MAIN_CLASS_NAME" value="cn.liuyiyou.spring.aop.HelloServiceTest" />
       <option name="METHOD_NAME" value="testSayHello" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -397,23 +563,45 @@
       </option>
       <envs />
       <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
     </configuration>
-    <configuration default="false" name="ResourceLoaderTest.testResourceLoader" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration name="JdbcTemplateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.github.liuyiyou.spring.resources.*" />
+          <option name="PATTERN" value="cn.liuyiyou.spring.jdbc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="sprinig-di" />
+      <module name="spring-jdbc" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.github.liuyiyou.spring.resources" />
-      <option name="MAIN_CLASS_NAME" value="com.github.liuyiyou.spring.resources.ResourceLoaderTest" />
-      <option name="METHOD_NAME" value="testResourceLoader" />
+      <option name="PACKAGE_NAME" value="cn.liuyiyou.spring.jdbc" />
+      <option name="MAIN_CLASS_NAME" value="cn.liuyiyou.spring.jdbc.JdbcTemplateTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="JdbcTemplateTest.testCURD" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.liuyiyou.spring.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="spring-jdbc" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.liuyiyou.spring.jdbc" />
+      <option name="MAIN_CLASS_NAME" value="cn.liuyiyou.spring.jdbc.JdbcTemplateTest" />
+      <option name="METHOD_NAME" value="testCURD" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -425,61 +613,76 @@
       </option>
       <envs />
       <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
     </configuration>
-    <configuration default="false" name="mySpring [clean]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
-      <MavenSettings>
-        <option name="myGeneralSettings" />
-        <option name="myRunnerSettings" />
-        <option name="myRunnerParameters">
-          <MavenRunnerParameters>
-            <option name="profiles">
-              <set />
-            </option>
-            <option name="goals">
-              <list>
-                <option value="clean" />
-              </list>
-            </option>
-            <option name="profilesMap">
-              <map />
-            </option>
-            <option name="workingDirPath" value="$PROJECT_DIR$" />
-          </MavenRunnerParameters>
-        </option>
-      </MavenSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
+    <configuration name="JdbcTemplateTest.testQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.liuyiyou.spring.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="spring-jdbc" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.liuyiyou.spring.jdbc" />
+      <option name="MAIN_CLASS_NAME" value="cn.liuyiyou.spring.jdbc.JdbcTemplateTest" />
+      <option name="METHOD_NAME" value="testQuery" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+    <configuration name="SpElTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.liuyiyou.spring.el.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="spring-el" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.liuyiyou.spring.el" />
+      <option name="MAIN_CLASS_NAME" value="cn.liuyiyou.spring.el.SpElTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
-      <option name="PROGRAM_PARAMETERS" />
-      <method />
-    </configuration>
-    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
-      <MavenSettings>
-        <option name="myGeneralSettings" />
-        <option name="myRunnerSettings" />
-        <option name="myRunnerParameters">
-          <MavenRunnerParameters>
-            <option name="profiles">
-              <set />
-            </option>
-            <option name="goals">
-              <list />
-            </option>
-            <option name="profilesMap">
-              <map />
-            </option>
-            <option name="workingDirPath" value="" />
-          </MavenRunnerParameters>
-        </option>
-      </MavenSettings>
-      <method />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
@@ -487,7 +690,6 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -515,126 +717,8 @@
       <envs />
       <properties />
       <listeners />
-      <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
-      <JSRemoteDebuggerConfigurationSettings>
-        <option name="engineId" value="embedded" />
-        <option name="fileUrl" />
-      </JSRemoteDebuggerConfigurationSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local">
-      <deployment />
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="_mySpring" />
-      </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <RunnerSettings RunnerId="Cover" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="59807" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method />
-    </configuration>
-    <configuration default="false" name="Tomcat 7.0" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0">
+    <configuration name="Tomcat 7.0" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0" ALTERNATIVE_JRE_ENABLED="false">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/spring-mvc" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -707,266 +791,840 @@
         </option>
       </method>
     </configuration>
-    <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 7.0" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.MapDiTest.testMapDi" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.PropertiesDiTest.testArrayDi" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.BeanDiTest.testSayHello" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.ResourceLoaderTest.testResourceLoader" />
-      <item index="5" class="java.lang.String" itemvalue="Maven.mySpring [clean]" />
-    </list>
-    <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Maven.mySpring [clean]" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.ResourceLoaderTest.testResourceLoader" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.BeanDiTest.testSayHello" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.PropertiesDiTest.testArrayDi" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.MapDiTest.testMapDi" />
-      </list>
-    </recent_temporary>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_mySpring" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Cover" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59807" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
+      <JSRemoteDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSRemoteDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
     </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 7.0" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.HelloServiceTest.testSayHello (1)" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.SpElTest.test" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.JdbcTemplateTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.JdbcTemplateTest.testQuery" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.JdbcTemplateTest.testCURD" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.JdbcTemplateTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.JdbcTemplateTest.testCURD" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.JdbcTemplateTest.testQuery" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.AppConfig.testQuery" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.AppConfig" />
+      </list>
+    </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
-    <option name="USER" value="" />
-    <option name="PASSWORD" value="" />
-    <option name="mySSHConnectionTimeout" value="30000" />
-    <option name="mySSHReadTimeout" value="30000" />
-    <option name="LAST_MERGED_REVISION" />
-    <option name="MERGE_DRY_RUN" value="false" />
-    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
-    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
-    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
-    <option name="DETECT_NESTED_COPIES" value="true" />
-    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
-    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
-    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
-    <option name="FORCE_UPDATE" value="false" />
-    <option name="IGNORE_EXTERNALS" value="false" />
-    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" myUseAcceleration="nothing">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="4f6a482a-0b9b-4fe0-9821-f2c0b158b077" name="Default" comment="" />
       <created>1404818588992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
       <updated>1404818588992</updated>
+      <workItem from="1515564223670" duration="593000" />
+      <workItem from="1515651047447" duration="3195000" />
+      <workItem from="1517474342123" duration="932000" />
+      <workItem from="1517981827892" duration="1471000" />
+      <workItem from="1517983327282" duration="3437000" />
     </task>
+    <task id="LOCAL-00001" summary="重命名">
+      <created>1515564575503</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1515564575503</updated>
+    </task>
+    <task id="LOCAL-00002" summary="修改">
+      <created>1517986907290</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1517986907290</updated>
+    </task>
+    <task id="LOCAL-00003" summary="修改">
+      <created>1517986992638</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1517986992638</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="JdbcTemplateTest - 2018.02.07 at 14h 44m 39s.xml">
+      <configuration name="JdbcTemplateTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JdbcTemplateTest - 2018.02.07 at 14h 47m 20s.xml">
+      <configuration name="JdbcTemplateTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JdbcTemplateTest - 2018.02.07 at 14h 56m 51s.xml">
+      <configuration name="JdbcTemplateTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JdbcTemplateTest_testCURD - 2018.02.07 at 14h 56m 32s.xml">
+      <configuration name="JdbcTemplateTest.testCURD" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JdbcTemplateTest_testQuery - 2018.02.07 at 14h 43m 18s.xml">
+      <configuration name="JdbcTemplateTest.testQuery" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JdbcTemplateTest_testQuery - 2018.02.07 at 14h 45m 04s.xml">
+      <configuration name="JdbcTemplateTest.testQuery" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JdbcTemplateTest_testQuery - 2018.02.07 at 14h 46m 53s.xml">
+      <configuration name="JdbcTemplateTest.testQuery" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JdbcTemplateTest_testQuery - 2018.02.07 at 14h 48m 31s.xml">
+      <configuration name="JdbcTemplateTest.testQuery" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JdbcTemplateTest_testQuery - 2018.02.07 at 14h 50m 05s.xml">
+      <configuration name="JdbcTemplateTest.testQuery" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JdbcTemplateTest_testQuery - 2018.02.07 at 14h 54m 38s.xml">
+      <configuration name="JdbcTemplateTest.testQuery" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9628000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="22" width="1440" height="825" extended-state="0" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298153" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32849604" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32998565" sideWeight="0.64713216" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25824964" sideWeight="0.64713216" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35286784" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35119888" sideWeight="0.5028612" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.64713216" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32722145" sideWeight="0.49427754" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35119888" sideWeight="0.49713877" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26895565" sideWeight="0.64713216" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298153" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="CHECK_NEW_TODO" value="true" />
-    <option name="myTodoPanelSettings">
-      <value>
-        <are-packages-shown value="false" />
-        <are-modules-shown value="false" />
-        <flatten-packages value="false" />
-        <is-autoscroll-to-source value="false" />
-      </value>
-    </option>
-    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
-    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
-    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
-    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
-    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
-    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
-    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
-    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
-    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
-    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
-    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
-    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
-    <option name="LIMIT_HISTORY" value="true" />
-    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
-    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
-    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
-    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
-    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
-    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
-    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
-    <option name="ACTIVE_VCS_NAME" />
-    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
-    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
-    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
-    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="重命名" />
+    <MESSAGE value="修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="202" height="396" key="Git.Branch.Popup" />
+    <state width="202" height="396" key="Git.Branch.Popup/1440.900" />
+    <state width="202" height="396" key="Git.Branch.Popup@1440.900" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
+    <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sprinig-di/src/main/resources/arrayDi.xml">
+    <entry file="file://$PROJECT_DIR$/spring-ioc/src/test/java/spring/di/ListDiTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="23" selection-start="748" selection-end="748" vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sprinig-di/src/main/java/com/github/liuyiyou/spring/di/MapDi.java">
+    <entry file="file://$PROJECT_DIR$/spring-ioc/src/test/java/spring/di/ConstructDiTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="15" selection-start="233" selection-end="233" vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sprinig-di/src/test/java/com/github/liuyiyou/spring/di/MapDiTest.java">
+    <entry file="file://$PROJECT_DIR$/spring-ioc/src/test/java/spring/di/ArrayDiTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="28" selection-start="839" selection-end="839" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sprinig-di/src/main/resources/mapDi.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="32" selection-start="530" selection-end="530" vertical-scroll-proportion="-5.4">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sprinig-di/src/main/resources/propDi.xml">
+    <entry file="file://$PROJECT_DIR$/spring-ioc/src/test/java/spring/di/InstanceFactoryDiTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="70" selection-start="471" selection-end="471" vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sprinig-di/src/main/java/com/github/liuyiyou/spring/di/PropertiesDi.java">
+    <entry file="file://$PROJECT_DIR$/spring-ioc/src/test/java/spring/di/SetterDiTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="16" selection-start="241" selection-end="241" vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sprinig-di/src/test/java/com/github/liuyiyou/spring/di/ArrayDiTest.java">
+    <entry file="file://$PROJECT_DIR$/spring-ioc/src/test/java/cn/liuyiyou/spring/di/ListDiTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="10" selection-start="379" selection-end="687" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sprinig-di/src/test/java/com/github/liuyiyou/spring/di/PropertiesDiTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="130" selection-start="663" selection-end="663" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sprinig-di/src/main/java/com/github/liuyiyou/spring/di/SetterDi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="208" selection-end="208" vertical-scroll-proportion="0.30201343">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sprinig-di/src/main/java/com/github/liuyiyou/spring/di/HelloApi.java">
+    <entry file="file://$PROJECT_DIR$/spring-ioc/src/test/java/cn/liuyiyou/spring/di/StaticFactoryDiTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="17" selection-start="212" selection-end="212" vertical-scroll-proportion="0.30201343">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sprinig-di/src/main/resources/beanDi.xml">
+    <entry file="file://$PROJECT_DIR$/spring-ioc/src/test/java/cn/liuyiyou/spring/di/InstanceFactoryDiTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="44" selection-start="589" selection-end="589" vertical-scroll-proportion="0.39099526">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sprinig-di/src/main/java/com/github/liuyiyou/spring/di/BeanDi.java">
+    <entry file="file://$PROJECT_DIR$/spring-ioc/src/test/java/cn/liuyiyou/spring/di/SetterDiTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="16" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sprinig-di/src/test/java/com/github/liuyiyou/spring/di/ConstructDiTest.java">
+    <entry file="file://$PROJECT_DIR$/spring-ioc/src/test/java/cn/liuyiyou/spring/di/ConstructDiTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="16" selection-start="383" selection-end="812" vertical-scroll-proportion="0.7516779">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sprinig-di/src/test/java/com/github/liuyiyou/spring/di/BeanDiTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="65" selection-start="579" selection-end="579" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sprinig-di/src/test/java/com/github/liuyiyou/spring/resources/ResourceLoaderTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="7" selection-start="693" selection-end="693" vertical-scroll-proportion="0.0">
+        <state relative-caret-position="165">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-aop-aspectj/src/main/java/cn/liuyiyou/spring/aop/aspectj/HelloService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-aop-aspectj/src/main/java/cn/liuyiyou/spring/aop/aspectj/HelloServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#308#309#0" expanded="false" />
+            <element signature="e#351#352#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-aop-aspectj/src/test/java/cn/liuyiyou/spring/aop/aspectj/HelloServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-aop-aspectj/src/main/java/cn/liuyiyou/spring/aop/aspectj/HelloAspectj.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#323#324#0" expanded="false" />
+            <element signature="e#392#393#0" expanded="false" />
+            <element signature="e#515#516#0" expanded="false" />
+            <element signature="e#582#583#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-aop-aspectj/src/main/resources/hello.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-aop-schema/src/main/java/cn/liuyiyou/spring/aop/HelloAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-aop-schema/src/main/java/cn/liuyiyou/spring/aop/HelloService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-aop-schema/src/main/java/cn/liuyiyou/spring/aop/HelloServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-aop-schema/src/main/resources/hello.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-aop-schema/src/test/java/cn/liuyiyou/spring/aop/HelloServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-el/src/main/java/cn/liuyiyou/spring/el/SpEl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-el/src/main/resources/el.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-el/src/test/java/cn/liuyiyou/spring/el/SpElTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="22" column="12" lean-forward="false" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-el/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-jdbc/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-jdbc/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.0.2.RELEASE/spring-jdbc-4.0.2.RELEASE.jar!/org/springframework/jdbc/core/JdbcTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="18" column="11" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding>
+            <marker date="1504068805000" expanded="false" signature="3:117" ph="/.../" />
+            <marker date="1504068805000" expanded="true" signature="846:869" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="928:951" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="1028:1051" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="1167:1190" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="1292:1315" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="1375:1398" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="1438:1461" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="1507:1530" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="1562:1585" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="1627:1650" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="1680:1703" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="1755:1778" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="1813:1836" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="1910:1933" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="1980:2003" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="2077:2100" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="2147:2170" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="2252:2275" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="2326:2349" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="2487:2510" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="2593:2616" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="2753:2776" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="2875:2898" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="3053:3076" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="3227:3250" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="3418:3441" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="3588:3611" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="3772:3795" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="3935:3958" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="3964:3994" ph="/**...*/" />
+            <marker date="1504068805000" expanded="true" signature="4123:4146" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="4152:4182" ph="/**...*/" />
+            <marker date="1504068805000" expanded="true" signature="4309:4332" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="4485:4508" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="4672:4695" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="4846:4869" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="4966:4989" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="5095:5118" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="5323:5346" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="5513:5536" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="5788:5811" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="6004:6027" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="6241:6264" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="6460:6483" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="6663:6686" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="6867:6890" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="7079:7102" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="7312:7335" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="7527:7550" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="7726:7749" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="7926:7949" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="8155:8178" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="8405:8428" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="8637:8660" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="8853:8876" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="9070:9093" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="9295:9318" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="9504:9527" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="9714:9737" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="9918:9941" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="10106:10129" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="10295:10318" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="10506:10529" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="10702:10725" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="10731:10761" ph="/**...*/" />
+            <marker date="1504068805000" expanded="true" signature="10931:10954" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="10960:10990" ph="/**...*/" />
+            <marker date="1504068805000" expanded="true" signature="11145:11168" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="11174:11204" ph="/**...*/" />
+            <marker date="1504068805000" expanded="true" signature="11372:11395" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="11401:11431" ph="/**...*/" />
+            <marker date="1504068805000" expanded="true" signature="11584:11607" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="11801:11824" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="12002:12025" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="12204:12227" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="12432:12455" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="12645:12668" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="12860:12883" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="13060:13083" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="13280:13303" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="13438:13461" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="13659:13682" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="13838:13861" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="13999:14022" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="14145:14168" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="14336:14359" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="14509:14532" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="14698:14721" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="14956:14979" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="15184:15207" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="15381:15404" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="15661:15684" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="16011:16034" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="16254:16277" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="16480:16503" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="16633:16656" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="16777:16800" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="16884:16907" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="17005:17028" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="17153:17176" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="17321:17344" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="17434:17457" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="17574:17597" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="17672:17695" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="17837:18172" ph="{...}" />
+            <marker date="1504068805000" expanded="true" signature="18022:18045" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="18143:18166" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="18339:18708" ph="{...}" />
+            <marker date="1504068805000" expanded="true" signature="18468:18491" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="18613:18636" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="18679:18702" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="18875:19230" ph="{...}" />
+            <marker date="1504068805000" expanded="true" signature="18990:19013" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="19135:19158" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="19201:19224" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="19331:19663" ph="{...}" />
+            <marker date="1504068805000" expanded="true" signature="19461:19484" ph="{}" />
+            <marker date="1504068805000" expanded="true" signature="19634:19657" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.0.2.RELEASE/spring-jdbc-4.0.2.RELEASE-sources.jar!/org/springframework/jdbc/core/JdbcTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="156" column="11" lean-forward="false" selection-start-line="156" selection-start-column="11" selection-end-line="156" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-dbcp/commons-dbcp/1.4/commons-dbcp-1.4-sources.jar!/org/apache/commons/dbcp/BasicDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="52" column="13" lean-forward="false" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-jdbc/src/main/java/cn/liuyiyou/spring/jdbc/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="57" lean-forward="false" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#744#745#0" expanded="false" />
+            <element signature="e#797#798#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.0.2.RELEASE/spring-beans-4.0.2.RELEASE.jar!/org/springframework/beans/factory/config/AutowireCapableBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+          <folding>
+            <marker date="1504068795000" expanded="false" signature="3:117" ph="/.../" />
+            <marker date="1504068795000" expanded="true" signature="393:423" ph="/**...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.0.2.RELEASE/spring-beans-4.0.2.RELEASE-sources.jar!/org/springframework/beans/factory/config/AutowireCapableBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="208" column="29" lean-forward="false" selection-start-line="208" selection-start-column="13" selection-end-line="208" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.0.2.RELEASE/spring-test-4.0.2.RELEASE.jar!/org/springframework/test/context/ContextConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <marker date="1504068811000" expanded="false" signature="3:117" ph="/.../" />
+            <marker date="1504068811000" expanded="true" signature="162:374" ph="@{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.0.2.RELEASE/spring-test-4.0.2.RELEASE-sources.jar!/org/springframework/test/context/ContextConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="145" column="15" lean-forward="false" selection-start-line="145" selection-start-column="15" selection-end-line="145" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.0.2.RELEASE/spring-test-4.0.2.RELEASE-sources.jar!/org/springframework/test/context/junit4/SpringJUnit4ClassRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="119" column="33" lean-forward="false" selection-start-line="119" selection-start-column="33" selection-end-line="119" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.0.2.RELEASE/spring-test-4.0.2.RELEASE-sources.jar!/org/springframework/test/context/TestContextManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="117" column="11" lean-forward="false" selection-start-line="117" selection-start-column="11" selection-end-line="117" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runner/RunWith.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="30" column="18" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-jdbc/src/test/java/cn/liuyiyou/spring/jdbc/JdbcTemplateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="25" lean-forward="false" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <marker date="1517986606191" expanded="true" signature="700:773" ph="CREATE TABLE... test" />
+            <marker date="1517986606191" expanded="true" signature="1002:1041" ph="insert into test... " />
+            <marker date="1517986606191" expanded="true" signature="1073:1112" ph="insert into test... " />
+            <marker date="1517986606191" expanded="true" signature="1224:1249" ph="select count... test" />
+            <marker date="1517986606191" expanded="true" signature="1383:1414" ph="delete from test... " />
+            <marker date="1517986606191" expanded="true" signature="1508:1533" ph="select count... test" />
+            <marker date="1517986606191" expanded="true" signature="1667:1712" ph="update test... " />
+            <marker date="1517986606191" expanded="true" signature="1744:1790" ph="select count... test" />
+            <marker date="1517986606191" expanded="true" signature="1988:2006" ph="select * fro... test" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/cn/liuyiyou/spring/web/ValidatorController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/cn/liuyiyou/spring/domain/UserValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="23" column="24" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/cn/liuyiyou/spring/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="30" column="23" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/cn/liuyiyou/spring/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="25" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-mvc/src/test/java/cn/liuyiyou/spring/web/ValidatorControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="31" column="9" lean-forward="false" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-ioc/src/test/java/cn/liuyiyou/spring/di/PropertiesDiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-tx/src/main/resources/log4j.properties">
+    <entry file="file://$PROJECT_DIR$/spring-ioc/src/test/java/cn/liuyiyou/spring/di/MapDiTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-ioc/src/test/java/cn/liuyiyou/spring/di/ArrayDiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-ioc/src/test/java/cn/liuyiyou/spring/di/BeanDiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-ioc/src/test/java/cn/liuyiyou/spring/ResourceLoaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="25" column="12" lean-forward="false" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1063,4 +1721,3 @@
     </states>
   </component>
 </project>
-
