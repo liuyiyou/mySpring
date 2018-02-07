@@ -7,10 +7,10 @@
     <aop:aspectj-autoproxy />
 
     <!--声明切面-->
-    <bean id="aspect" class="com.github.liuyiyou.spring.aop.aspectj.HelloAspectj"></bean>
+    <bean id="aspect" class="cn.liuyiyou.spring.aop.aspectj.HelloAspectj"></bean>
 
 
-    <bean id="helloService" class="com.github.liuyiyou.spring.aop.aspectj.HelloServiceImpl"></bean>
+    <bean id="helloService" class="cn.liuyiyou.spring.aop.aspectj.HelloServiceImpl"></bean>
 
 
 </beans>

@@ -5,11 +5,11 @@
 
 
     <!--配置目标类-->
-    <bean id="helloService" class="com.github.liuyiyou.spring.aop.HelloServiceImpl"></bean>
+    <bean id="helloService" class="cn.liuyiyou.spring.aop.HelloServiceImpl"></bean>
 
 
     <!--配置切面-->
-    <bean id="aspect" class="com.github.liuyiyou.spring.aop.HelloAspect"></bean>
+    <bean id="aspect" class="cn.liuyiyou.spring.aop.HelloAspect"></bean>
     <aop:config>
         <!--切入点表达式-->
         <aop:pointcut id="pointcut" expression="execution(* com.github..*.*(..))"></aop:pointcut>
