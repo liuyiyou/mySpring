@@ -53,7 +53,8 @@ public class JdbcTemplateTest {
         String updateSql = "UPDATE test SET name = 'name3' WHERE name = ? ";
         String selectSql = "SELECT count(*) FROM test WHERE name = 'name3'";
         jdbcTemplate.update(updateSql, new Object[]{"name1"});
-        Assert.assertEquals(1, jdbcTemplate.queryForInt(selectSql));
+        int result = jdbcTemplate.queryForObject(selectSql, Integer.class);
+        Assert.assertEquals(1, result);
 
     }
 
