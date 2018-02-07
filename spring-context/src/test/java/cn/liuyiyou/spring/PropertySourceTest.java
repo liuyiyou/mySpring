@@ -11,6 +11,7 @@ public class PropertySourceTest {
     public void proertySourceTest() {
         AnnotationConfigApplicationContext ctx = new AnnotationConfigApplicationContext();
         ctx.register(AppConfig.class);
+        ctx.refresh();//这个必须要
         System.out.println(ctx.getEnvironment().containsProperty("jdbc.url"));
     }
 }

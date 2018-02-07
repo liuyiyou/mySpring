@@ -2,13 +2,9 @@ package cn.liuyiyou.spring.context;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.PropertySource;
 import org.springframework.context.support.PropertySourcesPlaceholderConfigurer;
-import org.springframework.core.annotation.Order;
-
-import static org.springframework.core.Ordered.HIGHEST_PRECEDENCE;
 
 /***
  * @author: liuyiyou
@@ -37,16 +33,11 @@ public class AppConfig {
                         + "\tdriverClassName::" + driverClassName);
     }
 
-    //    @Autowired
-//    private Environment environment;
-
     @Bean
-    @Order(value = HIGHEST_PRECEDENCE)
     public PropertySourcesPlaceholderConfigurer propertySourcesPlaceholderConfigurer() {
         PropertySourcesPlaceholderConfigurer placeholderConfigurer = new PropertySourcesPlaceholderConfigurer();
         return placeholderConfigurer;
     }
-
 
 
 }
