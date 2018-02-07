@@ -3,7 +3,7 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean id="instanceFactory" class="com.github.liuyiyou.spring.di.InstanceFactoryDi"></bean>
+    <bean id="instanceFactory" class="cn.liuyiyou.spring.di.InstanceFactoryDi"></bean>
 
 
     <!--通过构造器参数索引进入注入-->

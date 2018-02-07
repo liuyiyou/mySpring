@@ -14,13 +14,12 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 @ContextConfiguration(classes = AppConfig.class)
 public class JdbcTemplateTest {
 
-
     @Autowired
     private JdbcTemplate jdbcTemplate;
 
+
     @Before
     public void setUp() {
-        System.out.println("jdbcTemplate::" + jdbcTemplate);
         String createTableSql = "CREATE  TABLE test (id INT PRIMARY KEY AUTO_INCREMENT, name VARCHAR(100))";
         jdbcTemplate.update(createTableSql);
     }

@@ -1,12 +1,6 @@
 package cn.liuyiyou.spring.di;
 
-/**
- * Created with IntelliJ IDEA.
- * User: liuyiyou
- * Date: 14-7-24
- * Time: 下午4:37
- * To change this template use File | Settings | File Templates.
- */
+
 public class BeanDi implements HelloApi {
 
     private HelloApi helloApi;

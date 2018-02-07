@@ -5,7 +5,7 @@
 
 
     <!--使用实例化工厂方法实例化bean-->
-    <bean id="beanFactory" class="com.github.liuyiyou.spring.ioc.InstanceByFactory" >
+    <bean id="beanFactory" class="cn.liuyiyou.spring.ioc.InstanceByFactory" >
     </bean>
 
     <bean id="bean4" factory-bean="beanFactory" factory-method="newInstance">

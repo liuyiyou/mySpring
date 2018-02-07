@@ -5,7 +5,7 @@
 
 
     <!--使用静态工厂方法实例化bean-->
-    <bean id="bean3" class="com.github.liuyiyou.spring.ioc.InstanceByStaticFactory" factory-method="newInstance">
+    <bean id="bean3" class="cn.liuyiyou.spring.ioc.InstanceByStaticFactory" factory-method="newInstance">
         <constructor-arg index="0" value="Hello Spring by static Factory"></constructor-arg>
     </bean>
 

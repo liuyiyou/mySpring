@@ -4,17 +4,17 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
 
-    <bean id="byIndex" class="com.github.liuyiyou.spring.di.StaticFactoryDi" factory-method="newInstance">
+    <bean id="byIndex" class="cn.liuyiyou.spring.di.StaticFactoryDi" factory-method="newInstance">
         <constructor-arg index="0" value="Hello World byIndex"></constructor-arg>
         <constructor-arg index="1" value="1"></constructor-arg>
     </bean>
 
-    <bean id="byType" class="com.github.liuyiyou.spring.di.StaticFactoryDi" factory-method="newInstance">
+    <bean id="byType" class="cn.liuyiyou.spring.di.StaticFactoryDi" factory-method="newInstance">
         <constructor-arg type="java.lang.String" value="Hello World ByType"></constructor-arg>
         <constructor-arg type="int" value="2"></constructor-arg>
     </bean>
 
-    <bean id="byName" class="com.github.liuyiyou.spring.di.StaticFactoryDi" factory-method="newInstance">
+    <bean id="byName" class="cn.liuyiyou.spring.di.StaticFactoryDi" factory-method="newInstance">
         <constructor-arg name="message" value="Hello World byName"></constructor-arg>
         <constructor-arg name="index" value="3"></constructor-arg>
     </bean>
