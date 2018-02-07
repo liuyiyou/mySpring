@@ -15,7 +15,6 @@ import static org.springframework.core.Ordered.HIGHEST_PRECEDENCE;
  * @date: 2018/2/7
  */
 @Configuration
-@ComponentScan(basePackages = "cn.liuyiyou.spring.context")
 @PropertySource("classpath:jdbc.properties")
 public class AppConfig {
 

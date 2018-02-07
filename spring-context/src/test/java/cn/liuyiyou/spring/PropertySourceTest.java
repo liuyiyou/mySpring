@@ -2,16 +2,15 @@ package cn.liuyiyou.spring;
 
 import cn.liuyiyou.spring.context.AppConfig;
 import org.junit.Test;
-import org.junit.runner.RunWith;
-import org.springframework.test.context.ContextConfiguration;
-import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
-@RunWith(SpringJUnit4ClassRunner.class)
-@ContextConfiguration(classes = AppConfig.class)
 public class PropertySourceTest {
 
+
     @Test
-    public void test() {
-        System.out.println("xx");
+    public void proertySourceTest() {
+        AnnotationConfigApplicationContext ctx = new AnnotationConfigApplicationContext();
+        ctx.register(AppConfig.class);
+        System.out.println(ctx.getEnvironment().containsProperty("jdbc.url"));
     }
 }
