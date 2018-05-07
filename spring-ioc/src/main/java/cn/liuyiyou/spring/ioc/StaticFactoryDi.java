@@ -4,12 +4,12 @@ package cn.liuyiyou.spring.ioc;
  * Created with IntelliJ IDEA.
  * User: liuyiyou
  * Date: 14-7-24
- * Time: 上午11:15
+ * Time: 下午3:40
  * To change this template use File | Settings | File Templates.
  */
-public class InstanceByStaticFactory {
+public class StaticFactoryDi  {
 
-    public static HelloApi newInstance (String message){
-        return new InstanceByConstruct(message);
+    public static HelloApi newInstance(String message,int index){
+        return  new ConstructDi(message,index);
     }
 }

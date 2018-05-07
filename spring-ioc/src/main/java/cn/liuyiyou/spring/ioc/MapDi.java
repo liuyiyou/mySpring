@@ -1,4 +1,4 @@
-package cn.liuyiyou.spring.context;
+package cn.liuyiyou.spring.ioc;
 
 import java.util.Map;
 

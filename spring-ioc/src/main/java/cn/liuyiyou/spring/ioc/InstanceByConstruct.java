@@ -18,6 +18,7 @@ public class InstanceByConstruct implements HelloApi {
 
     @Override
     public void sayHello() {
+        System.out.println("By Construct");
         System.out.println(message);
 
     }

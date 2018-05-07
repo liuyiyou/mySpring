@@ -1,11 +1,7 @@
-package cn.liuyiyou.spring.context;
+package cn.liuyiyou.spring.ioc;
 
 /**
- * Created with IntelliJ IDEA.
- * User: liuyiyou
- * Date: 14-7-24
- * Time: 下午3:52
- * To change this template use File | Settings | File Templates.
+ * 使用set注入
  */
 public class SetterDi implements HelloApi {
 
@@ -31,7 +27,7 @@ public class SetterDi implements HelloApi {
 
     @Override
     public void sayHello() {
+        System.out.println("使用set注入");
         System.out.println(index + ":" + message);
-        //To change body of implemented methods use File | Settings | File Templates.
     }
 }

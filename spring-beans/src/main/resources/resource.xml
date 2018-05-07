@@ -3,8 +3,7 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean id="setDI" class="cn.liuyiyou.spring.context.SetterDi">
-        <property name="message" value="Hello World" />
-        <property name="index" value="1" />
-    </bean>
+
+    <description>这是资源文件位置</description>
+
 </beans>

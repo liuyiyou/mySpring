@@ -1,4 +1,4 @@
-package cn.liuyiyou.spring.context;
+package cn.liuyiyou.spring.ioc;
 
 import org.junit.Test;
 import org.springframework.beans.factory.BeanFactory;

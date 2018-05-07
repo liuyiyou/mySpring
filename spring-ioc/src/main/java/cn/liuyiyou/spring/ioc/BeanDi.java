@@ -1,11 +1,9 @@
-package cn.liuyiyou.spring.context;
+package cn.liuyiyou.spring.ioc;
 
 
 public class BeanDi implements HelloApi {
 
     private HelloApi helloApi;
-
-    //通过构造器注入省略
 
 
     public HelloApi getHelloApi() {
@@ -18,8 +16,7 @@ public class BeanDi implements HelloApi {
 
     @Override
     public void sayHello() {
-        System.out.println("在原来的基础上加强一下，算是装饰");
+        System.out.println("BeanDI");
         helloApi.sayHello();
-        //To change body of implemented methods use File | Settings | File Templates.
     }
 }

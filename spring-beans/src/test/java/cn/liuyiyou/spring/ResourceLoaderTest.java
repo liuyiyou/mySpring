@@ -15,11 +15,11 @@ public class ResourceLoaderTest {
     public void testResourceLoader() {
 
         ResourceLoader loader = new DefaultResourceLoader();
-        Resource resource = loader.getResource("classpath:arrayDi.xml");
+        Resource resource = loader.getResource("classpath:resource.xml");
         Assert.assertEquals(ClassPathResource.class, resource.getClass());
 //        Resource  resource2  = loader.getResource("flie:/src/main/resources/arrayDi.xml");
 //        Assert.assertEquals(ClassPathResource.class,resource2.getClass());
-        Resource resource3 = loader.getResource("arrayDi.xml");
+        Resource resource3 = loader.getResource("resource.xml");
         Assert.assertTrue(resource3 instanceof ClassPathResource);
 
 

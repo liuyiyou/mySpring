@@ -1,4 +1,4 @@
-package cn.liuyiyou.spring.context;
+package cn.liuyiyou.spring.ioc;
 
 /**
  * Created with IntelliJ IDEA.

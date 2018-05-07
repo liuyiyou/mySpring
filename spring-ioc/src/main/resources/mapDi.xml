@@ -3,7 +3,7 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean id="mapDi" class="cn.liuyiyou.spring.context.MapDi">
+    <bean id="mapDi" class="cn.liuyiyou.spring.ioc.MapDi">
         <property name="values">
             <map key-type="java.lang.String">
                 <entry  key="key1" value="value1"></entry>

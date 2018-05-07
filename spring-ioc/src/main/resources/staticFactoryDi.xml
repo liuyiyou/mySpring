@@ -9,12 +9,12 @@
         <constructor-arg index="1" value="1"></constructor-arg>
     </bean>
 
-    <bean id="byType" class="cn.liuyiyou.spring.context.StaticFactoryDi" factory-method="newInstance">
+    <bean id="byType" class="cn.liuyiyou.spring.ioc.StaticFactoryDi" factory-method="newInstance">
         <constructor-arg type="java.lang.String" value="Hello World ByType"></constructor-arg>
         <constructor-arg type="int" value="2"></constructor-arg>
     </bean>
 
-    <bean id="byName" class="cn.liuyiyou.spring.context.StaticFactoryDi" factory-method="newInstance">
+    <bean id="byName" class="cn.liuyiyou.spring.ioc.StaticFactoryDi" factory-method="newInstance">
         <constructor-arg name="message" value="Hello World byName"></constructor-arg>
         <constructor-arg name="index" value="3"></constructor-arg>
     </bean>
