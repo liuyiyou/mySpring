@@ -1,4 +1,4 @@
-package cn.liuyiyou.spring.aop.aspectj;
+package cn.liuyiyou.spring.ioc.aspectj;
 
 import org.aspectj.lang.annotation.After;
 import org.aspectj.lang.annotation.Aspect;

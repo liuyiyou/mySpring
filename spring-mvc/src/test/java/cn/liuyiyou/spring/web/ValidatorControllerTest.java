@@ -2,14 +2,9 @@ package cn.liuyiyou.spring.web;
 
 import org.junit.Before;
 import org.junit.Test;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.test.context.ContextConfiguration;
-import org.springframework.test.context.web.WebAppConfiguration;
 import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
 import org.springframework.test.web.servlet.result.MockMvcResultMatchers;
-import org.springframework.test.web.servlet.setup.MockMvcBuilders;
-import org.springframework.web.context.WebApplicationContext;
 
 /**
  * Created with IntelliJ IDEA.
@@ -18,7 +13,7 @@ import org.springframework.web.context.WebApplicationContext;
  * Time: 上午10:18
  * To change this template use File | Settings | File Templates.
  */
-public class ValidatorControllerTest{
+public class ValidatorControllerTest {
 
 
     //这个在3.2.0及以上版本才有，之前是没有的
