@@ -1,13 +1,19 @@
 package cn.liuyiyou.spring.jdbc;
 
+import cn.liuyiyou.spring.jdbc.entity.User;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
+import org.springframework.jdbc.core.RowMapper;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
+
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.util.List;
 
 
 @RunWith(SpringJUnit4ClassRunner.class)
@@ -64,7 +70,22 @@ public class JdbcTemplateTest {
             System.out.println("id: " + resultSet.getInt("id"));
             System.out.println("name: " + resultSet.getString("name"));
         });
+        List<User> users = jdbcTemplate.queryForList(selectSql, User.class);
+        System.out.println(users.size());
     }
 
 
+}
+
+class UserMapper implements RowMapper{
+
+    @Override
+    public Object mapRow(ResultSet rs, int rowNum) throws SQLException {
+        while (rs.next()){
+            User user = new User();
+            user.setId(rs.getInt(1));
+            user.setName(rs.getString(2));
+        }
+        return null;
+    }
 }

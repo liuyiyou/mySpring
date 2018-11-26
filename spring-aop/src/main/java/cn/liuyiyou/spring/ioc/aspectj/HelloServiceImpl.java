@@ -1,5 +1,8 @@
 package cn.liuyiyou.spring.ioc.aspectj;
 
+import cn.liuyiyou.spring.ioc.aspectj.annotation.QPS;
+import cn.liuyiyou.spring.ioc.aspectj.annotation.RT;
+
 /**
  * Created with IntelliJ IDEA.
  * User: liuyiyou
@@ -9,7 +12,10 @@ package cn.liuyiyou.spring.ioc.aspectj;
  */
 public class HelloServiceImpl implements HelloService {
     @Override
-    public void sayHello(String message) {
+
+    @RT
+    public void sayHello(String message) throws InterruptedException {
         System.out.println(message);
+        Thread.sleep(3424L);
     }
 }

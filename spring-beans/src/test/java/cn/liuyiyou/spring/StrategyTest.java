@@ -1,6 +1,7 @@
 package cn.liuyiyou.spring;
 
 import cn.liuyiyou.spring.strategy.AppConfig;
+import cn.liuyiyou.spring.strategy.ContextSpringFactory;
 import cn.liuyiyou.spring.strategy.PrintStrategy;
 import cn.liuyiyou.spring.strategy.Strategy;
 import org.junit.Test;
@@ -18,7 +19,8 @@ public class StrategyTest {
     @Test
     public void test() {
         ApplicationContext context = new AnnotationConfigApplicationContext(AppConfig.class);
-        Strategy bean = context.getBean(PrintStrategy.class);
-        System.out.println(bean.action());
+        ContextSpringFactory bean = context.getBean(ContextSpringFactory.class);
+        System.out.println(bean.doAction("write"));
+        System.out.println(bean.doAction("print"));
     }
 }

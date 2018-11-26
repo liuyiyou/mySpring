@@ -21,4 +21,9 @@ public class AppConfig {
     public Strategy writeStrategty(){
         return  new WriteStrategy();
     }
+
+    @Bean
+    public ContextSpringFactory contextSpringFactory (){
+        return new ContextSpringFactory();
+    }
 }

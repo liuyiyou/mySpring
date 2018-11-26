@@ -9,5 +9,5 @@ package cn.liuyiyou.spring.ioc.aspectj;
  */
 public interface HelloService {
 
-    void sayHello(String message);
+    void sayHello(String message) throws InterruptedException;
 }
