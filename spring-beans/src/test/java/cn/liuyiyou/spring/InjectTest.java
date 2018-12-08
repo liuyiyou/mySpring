@@ -18,9 +18,12 @@ public class InjectTest {
 
     @Test
     public void test(){
-        AnnotationConfigApplicationContext ctx = new AnnotationConfigApplicationContext(Config.class);
+        AnnotationConfigApplicationContext ctx = new AnnotationConfigApplicationContext();
+        ctx.register(Config.class);
+        ctx.refresh();
         final Company company = ctx.getBean(Company.class);
         System.out.println(company);
+        System.out.println(Runtime.getRuntime().totalMemory());
     }
 
 }

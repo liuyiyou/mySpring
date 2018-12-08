@@ -1,5 +1,6 @@
 package cn.liuyiyou.spring.entity;
 
+import org.springframework.context.annotation.Configuration;
 import org.springframework.stereotype.Component;
 
 import java.util.HashMap;
@@ -14,6 +15,7 @@ import java.util.Set;
  * @Copyright: 2018 yanglaoban.com Inc. All rights reserved.
  */
 @Component
+@Configuration
 public class Company {
 
     private int id;
