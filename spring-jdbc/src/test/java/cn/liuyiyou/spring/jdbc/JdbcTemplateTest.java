@@ -45,14 +45,16 @@ public class JdbcTemplateTest {
         jdbcTemplate.update(insertSql);
         jdbcTemplate.update(insertSql2);
         String selectSql = "SELECT count(*) FROM test";
-        Assert.assertEquals(2, jdbcTemplate.queryForInt(selectSql));
+        int result = jdbcTemplate.queryForObject(selectSql, Integer.class);
+        Assert.assertEquals(2, result);
     }
 
     public void delete() {
         String deleteSql = "DELETE FROM test WHERE name = ?";
         jdbcTemplate.update(deleteSql, new Object[]{"name2"});
         String selectSql = "SELECT count(*) FROM test";
-        Assert.assertEquals(1, jdbcTemplate.queryForInt(selectSql));
+        int result = jdbcTemplate.queryForObject(selectSql, Integer.class);
+        Assert.assertEquals(1, result);
     }
 
     public void update() {
@@ -72,20 +74,5 @@ public class JdbcTemplateTest {
         });
         List<User> users = jdbcTemplate.queryForList(selectSql, User.class);
         System.out.println(users.size());
-    }
-
-
-}
-
-class UserMapper implements RowMapper{
-
-    @Override
-    public Object mapRow(ResultSet rs, int rowNum) throws SQLException {
-        while (rs.next()){
-            User user = new User();
-            user.setId(rs.getInt(1));
-            user.setName(rs.getString(2));
-        }
-        return null;
     }
 }
