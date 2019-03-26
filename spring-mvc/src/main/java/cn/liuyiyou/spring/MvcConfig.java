@@ -15,5 +15,4 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 @ComponentScan(basePackages = "cn.liuyiyou.spring.web")
 public class MvcConfig implements WebMvcConfigurer {
 
-
 }
