@@ -7,10 +7,10 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>spring-aop-aspectj</artifactId>
+    <artifactId>spring-aop</artifactId>
     <packaging>jar</packaging>
 
-    <name>spring-aop-aspectj</name>
+    <name>spring-aop</name>
     <url>http://maven.apache.org</url>
 
 

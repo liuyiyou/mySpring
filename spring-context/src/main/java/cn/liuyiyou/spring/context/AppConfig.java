@@ -11,33 +11,40 @@ import org.springframework.context.support.PropertySourcesPlaceholderConfigurer;
  * @date: 2018/2/7
  */
 @Configuration
-@PropertySource("classpath:jdbc.properties")
+//@PropertySource("classpath:jdbc.properties")
 public class AppConfig {
 
 
-    @Value("${jdbc.url}")
-    private String url;
-    @Value("${jdbc.username}")
-    private String username;
-    @Value("${jdbc.password}")
-    private String password;
-    @Value("${jdbc.driverClassName}")
-    private String driverClassName;
-
-    public AppConfig() {
-        System.out.println("in appConfig");
-        System.out.println(
-                "url::" + url
-                        + "\tusername::" + username
-                        + "\tpassword::" + password
-                        + "\tdriverClassName::" + driverClassName);
-    }
-
     @Bean
-    public PropertySourcesPlaceholderConfigurer propertySourcesPlaceholderConfigurer() {
-        PropertySourcesPlaceholderConfigurer placeholderConfigurer = new PropertySourcesPlaceholderConfigurer();
-        return placeholderConfigurer;
+    public BeanLife beanLife(){
+        return new BeanLife();
     }
+
+
+
+//    @Value("${jdbc.url}")
+//    private String url;
+//    @Value("${jdbc.username}")
+//    private String username;
+//    @Value("${jdbc.password}")
+//    private String password;
+//    @Value("${jdbc.driverClassName}")
+//    private String driverClassName;
+//
+//    public AppConfig() {
+//        System.out.println("in appConfig");
+//        System.out.println(
+//                "url::" + url
+//                        + "\tusername::" + username
+//                        + "\tpassword::" + password
+//                        + "\tdriverClassName::" + driverClassName);
+//    }
+//
+//    @Bean
+//    public PropertySourcesPlaceholderConfigurer propertySourcesPlaceholderConfigurer() {
+//        PropertySourcesPlaceholderConfigurer placeholderConfigurer = new PropertySourcesPlaceholderConfigurer();
+//        return placeholderConfigurer;
+//    }
 
 
 }

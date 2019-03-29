@@ -11,11 +11,15 @@ import org.springframework.stereotype.Service;
  * To change this template use File | Settings | File Templates.
  */
 @Service
-public class HelloServiceImpl implements HelloService {
+public class HelloServiceImpl {//implements HelloService {
 
-    @Override
-    @RT
-    public void sayHello(String message) throws InterruptedException {
+//    @Override
+//    @RT
+    public void sayHello(String message)  {
+        if(message == null){
+            message.substring(1,2);
+        }
         System.out.println(message);
+
     }
 }
