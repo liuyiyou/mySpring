@@ -8,7 +8,7 @@ import org.springframework.security.config.annotation.web.configuration.EnableWe
  * @author: liuyiyou.cn
  * @date: 2018/10/25
  * @version: V1.0
- * @Copyright: 2018 yanglaoban.com Inc. All rights reserved.
+ * @Copyright: 2018 liuyiyou.cn Inc. All rights reserved.
  */
 @EnableWebSecurity
 public class WebSecurityConfig {//extends WebMvcConfigurerAdapter {

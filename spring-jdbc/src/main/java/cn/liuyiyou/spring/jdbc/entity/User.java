@@ -4,7 +4,7 @@ package cn.liuyiyou.spring.jdbc.entity;
  * @author: liuyiyou.cn
  * @date: 2018/11/26
  * @version: V1.0
- * @Copyright: 2018 yanglaoban.com Inc. All rights reserved.
+ * @Copyright: 2018 liuyiyou.cn Inc. All rights reserved.
  */
 public class User {
 

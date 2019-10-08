@@ -11,7 +11,7 @@ import java.lang.annotation.Target;
  * @author: liuyiyou.cn
  * @date: 2018/11/26
  * @version: V1.0
- * @Copyright: 2018 yanglaoban.com Inc. All rights reserved.
+ * @Copyright: 2018 liuyiyou.cn Inc. All rights reserved.
  */
 @Target({ElementType.METHOD, ElementType.ANNOTATION_TYPE})
 @Retention(RetentionPolicy.RUNTIME)
