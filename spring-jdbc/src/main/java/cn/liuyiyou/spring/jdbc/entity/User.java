@@ -1,7 +1,7 @@
 package cn.liuyiyou.spring.jdbc.entity;
 
 /**
- * @author: liuyiyou@yanglaoban.com
+ * @author: liuyiyou.cn
  * @date: 2018/11/26
  * @version: V1.0
  * @Copyright: 2018 yanglaoban.com Inc. All rights reserved.

@@ -9,7 +9,7 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 /**
- * @author: liuyiyou@yanglaoban.com
+ * @author: liuyiyou.cn
  * @date: 2018/10/18
  * @version: V1.0
  * @Copyright: 2018 yanglaoban.com Inc. All rights reserved.

@@ -5,7 +5,7 @@ import org.springframework.security.config.annotation.authentication.builders.Au
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
 
 /**
- * @author: liuyiyou@yanglaoban.com
+ * @author: liuyiyou.cn
  * @date: 2018/10/25
  * @version: V1.0
  * @Copyright: 2018 yanglaoban.com Inc. All rights reserved.
